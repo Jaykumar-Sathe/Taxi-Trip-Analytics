@@ -1,0 +1,35 @@
+LocationID,Borough,Zone
+1,South Mumbai,Colaba
+2,South Mumbai,Nariman Point
+3,South Mumbai,Churchgate
+4,South Mumbai,Marine Drive
+5,South Mumbai,CSMT / Fort
+6,South Mumbai,Byculla
+7,South Mumbai,Mahalaxmi
+8,Central Mumbai,Lower Parel
+9,Central Mumbai,Worli
+10,Central Mumbai,Dadar
+11,Central Mumbai,Matunga
+12,Central Mumbai,Sion
+13,Western Suburbs,Mahim
+14,Western Suburbs,Bandra West
+15,Western Suburbs,Santacruz
+16,Western Suburbs,Vile Parle
+17,Western Suburbs,Juhu
+18,Western Suburbs,Andheri West
+19,Western Suburbs,Goregaon
+20,Western Suburbs,Malad
+21,Western Suburbs,Kandivali
+22,Western Suburbs,Borivali
+23,Eastern Suburbs,Bandra Kurla Complex
+24,Eastern Suburbs,Kurla
+25,Eastern Suburbs,Chembur
+26,Eastern Suburbs,Ghatkopar
+27,Eastern Suburbs,Powai
+28,Eastern Suburbs,Vikhroli
+29,Eastern Suburbs,Mulund
+30,Eastern Suburbs,Andheri East
+31,Airport,Mumbai Airport T2 (International)
+32,Airport,Mumbai Airport T1 (Domestic)
+33,Thane / Navi Mumbai,Thane
+34,Thane / Navi Mumbai,Vashi

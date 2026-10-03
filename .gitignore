@@ -1,0 +1,23 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+
+# Data (too large for Git) - the small sample is kept
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.parquet
+!data/sample/*.parquet
+
+# Spark temp files
+spark-warehouse/
+metastore_db/
+derby.log
+spark-events/
+*.crc
